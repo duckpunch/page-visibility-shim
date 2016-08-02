@@ -1,6 +1,6 @@
 {
   "name": "page-visibility-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Packaged version of the Page Visibility API shim provided on MDN",
   "main": "index.js",
   "scripts": {
