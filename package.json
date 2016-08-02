@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jshint index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duckpunch/page-visibility-shim.git"
+  },
   "keywords": [
     "page",
     "visibility",
