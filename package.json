@@ -1,0 +1,22 @@
+{
+  "name": "page-visibility-shim",
+  "version": "1.0.0",
+  "description": "Packaged version of the Page Visibility API shim provided on MDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js"
+  },
+  "keywords": [
+    "page",
+    "visibility",
+    "shim"
+  ],
+  "author": {
+    "name": "duckpunch",
+    "url": "https://github.com/duckpunch"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
